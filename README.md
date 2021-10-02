@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/decodev-dba">
-  <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=decodev-dba&show_icons=true&icon_color=blue&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decodev-dba&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=decodev-dba&show_icons=true&icon_color=blue&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decodev-dba&layout=compact&icon_color=blue&langs_count=7&theme=algolia"/>
 </div>
   
  ##
