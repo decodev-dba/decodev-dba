@@ -1,9 +1,9 @@
 ## Olá! Eu sou o André Santana
 
 - 🔭 Analista de Sistemas PEGA System e  Desenvolvedor  Voluntário.
-- 🌱 Atualmente estou desenvolvendo as skills: JavaScript, React , Node.js, Java, Angular,Salesforce , e  Maker.
+- 🌱 Atualmente estou desenvolvendo as seguintes skills: JavaScript, React , Node.js, Java, Angular,Salesforce , e  Maker.
 - 😄 Pronomes: ele/dele.
-
+/*Painel de comit e outros.*/ 
 <div>
   <a href="https://github.com/decodev-dba">
   <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=decodev-dba&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
