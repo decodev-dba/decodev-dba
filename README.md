@@ -1,7 +1,7 @@
 ## Olá! Eu sou o André Santana
 
 - 🔭 Analista de Sistemas PEGA System e  Desenvolvedor  Voluntário.
-- 🌱 Atualmente estou desenvolvendo as seguintes skills: JavaScript, React , Node.js, Java, Angular, Salesforce, e Maker.
+- 🌱 Atualmente estou desenvolvendo as seguintes skills: JavaScript, React, Node.js, Java, Angular, Salesforce, e Maker.
 - 😄 Pronomes: ele/dele.
 
 <div>
